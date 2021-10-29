@@ -4,4 +4,4 @@
 * Github
 
 ## Documents
-* Datenschutzerklärung
+* [Datenschutzerklärung](Datenschutz.html)
