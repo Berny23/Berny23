@@ -1830,7 +1830,8 @@ Installed 16.11.2021 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 
 > By muppetpuppet und Verodor for Skyrim Special Edition (Default)
 
-Eine hochwertige und inhaltlich komplette Übersetzung des &#34;[url=http://skyrim.nexusmods.com/mods/9782]Moonpath to Elsweyr[/url]&#34;-Mods.<br />Danke an muppetpuppet für seinen Mod, sowie seinen Versuch, ihn selber zu übersetzen.
+Eine hochwertige und inhaltlich komplette Übersetzung des &#34;[url=http://skyrim.nexusmods.com/mods/9782]Moonpath to Elsweyr[/url]&#34;-Mods.
+<br />Danke an muppetpuppet für seinen Mod, sowie seinen Versuch, ihn selber zu übersetzen.
 
 
 
@@ -1920,7 +1921,9 @@ Installed 16.11.2021 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 
 > By Gamwich for Skyrim Special Edition (Default)
 
-This mod expands from the 3 default pelt used in farmhouses and inns to have as many as 9 different pelts in the game at one time. There are different sets for the floors, walls, and beds. <br /><br />There is also a Lite version that has a shared set for the walls and beds, and a separate set for the floors.
+This mod expands from the 3 default pelt used in farmhouses and inns to have as many as 9 different pelts in the game at one time. There are different sets for the floors, walls, and beds. 
+<br />
+<br />There is also a Lite version that has a shared set for the walls and beds, and a separate set for the floors.
 
 
 
@@ -2850,7 +2853,12 @@ Installed 16.11.2021 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 
 > By Skysan4298 for Skyrim Special Edition (Default)
 
-ELFX used with SMIM mod  can drop frame to crawling on these areas, and this mod patched those to bring back the performance to normal.<br />+ Jorrvaskr basement<br />+ Solitude Radiant Raiment<br />+ Faldars Tooth<br />+ Shadow Green Cavern<br />
+ELFX used with SMIM mod  can drop frame to crawling on these areas, and this mod patched those to bring back the performance to normal.
+<br />+ Jorrvaskr basement
+<br />+ Solitude Radiant Raiment
+<br />+ Faldars Tooth
+<br />+ Shadow Green Cavern
+<br />
 
 
 
@@ -3225,7 +3233,8 @@ Installed 16.11.2021 from [Nexus Mods](https://www.nexusmods.com/skyrimspecialed
 
 > By naycom for Skyrim Special Edition (Default)
 
-Übersetzung der Wearable Lanterns (Chesko).<br />ESP only.
+Übersetzung der Wearable Lanterns (Chesko).
+<br />ESP only.
 
 
 
