@@ -4,6 +4,7 @@
 * Github
 
 ## Documents
+* [Impressum](Impressum.html)
 * [Datenschutzerklärung](Datenschutz.html)
 
 ## Mod Lists
